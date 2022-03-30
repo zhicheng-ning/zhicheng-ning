@@ -1,5 +1,9 @@
 ### Hi there 👋
 #### Welcome to Lion Forum: https://nzcer.cn:8088/forum
+
+#### My LeetCode HomePage: https://leetcode-cn.com/u/shi-bu-deng-qin-sheng/
+
+#### My Email: simaqinsheng@gmail.com
 <!--
 **zhicheng-ning/zhicheng-ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
