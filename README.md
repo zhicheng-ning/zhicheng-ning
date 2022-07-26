@@ -37,18 +37,6 @@
   <br><br>
   <strong>⚡ Check out my work below! </strong>
   <br><br>
-  <a href="https://github.com/zhicheng-ning">
-    <img src="https://badges.pufler.dev/visits/zhicheng-ning/zhicheng-ning?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/zhicheng-ning">
-    <img src="https://badges.pufler.dev/years/zhicheng-ning?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/zhicheng-ning?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/zhicheng-ning?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/zhicheng-ning">
-    <img src="https://badges.pufler.dev/commits/monthly/zhicheng-ning?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 ---
