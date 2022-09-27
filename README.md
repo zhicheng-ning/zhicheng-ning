@@ -73,7 +73,7 @@ Featured Projects: [Lion Forum](https://nzcer.cn:8088/forum) / [Larning Summary]
 
 [<img align="left" height="94px" width="94px" alt="Vmware" src="https://i0.wp.com/www.clamtech.com/wp-content/uploads/2018/05/VMWare-Logo.jpg?ssl=1"/>](https://www.vmware.com/)
 
-**Software Developmemt Engineer Intern** \
+**Software Development Engineer Intern** \
 [**Vmware**](https://www.vmware.com/) • 2022/04/11 - 2022/08/31 \
 Languages & Technologies: `Java`, `Automation` , `Nacos`, `Kubernetes`, `TestNg`  \
 Featured Projects: [vSAN](https://www.vmware.com/products/vsan.html)
