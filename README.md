@@ -2,7 +2,7 @@
 
 <p>Hi, 👋  I'm Zhicheng Ning！
 
-<img align="left" alt="GIF" src="https://www.bing.com/th/id/OGC.2b2155c668f98b793249e03dae6e3f86?pid=1.7&rurl=https%3a%2f%2fwww.365biaoqing.com%2fimages%2f367685%2f2_Wgfpd.png&ehk=ziwNrMnL0jIbs8x7z5pob8%2bu8OYwEMV81xlT4sh3ihw%3d" width="60" title="Say HI"> <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
+<em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
 
 <br>
 
