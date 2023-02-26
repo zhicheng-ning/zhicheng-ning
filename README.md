@@ -3,6 +3,8 @@
 <p>Hi, 👋  I'm Zhicheng Ning！
 
 <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
+  
+![](https://komarev.com/ghpvc/?username=zhicheng-ning&color=blue)
 
 <br>
 
@@ -37,7 +39,10 @@
   <br><br>
   <strong>⚡ Check out my work below! </strong>
   <br><br>
+
 </p>
+ 
+
   
 ---
   
@@ -120,7 +125,6 @@ Featured Projects: [vSAN](https://www.vmware.com/products/vsan.html)
 </a></code>
 
 <br>
-
 🤝 Let's do some interesting projects together 👆!!!
 
 ---
