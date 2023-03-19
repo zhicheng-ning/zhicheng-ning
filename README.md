@@ -67,7 +67,7 @@
 **Master Degree** \
 [**ECNU**](https://www.ecnu.edu.cn/) • 2021/09/01 - Now \
 Skills: `Java`, `Python`,`Micro Service`, `CI/CD`, `DevOps`, `Cloud Native`\
-Featured Projects: [Data Power Platform](https://github.com/zhicheng-ning/data-power-platform) / [DPP Backend](https://github.com/zhicheng-ning/dpp-backend)
+Featured Projects: [X-Tiktok](https://github.com/X-Engineer/x-tiktok)/ [X-RPC](https://github.com/X-Engineer/x-rpc)/ [Data Power Platform](https://github.com/zhicheng-ning/data-power-platform) / [DPP Backend](https://github.com/zhicheng-ning/dpp-backend)
 <br/>
 
 
