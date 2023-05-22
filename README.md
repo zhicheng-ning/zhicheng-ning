@@ -80,6 +80,14 @@ Featured Projects: [Lion Forum](https://nzcer.cn:8088/forum) / [Larning Summary]
 <br>
 
 ### ⛳ Work Experience
+  
+[<img align="left" height="94px" width="94px" alt="Vmware" src="https://github.com/zhicheng-ning/zhicheng-ning/assets/39022409/15974593-3f57-496e-b17b-6108cd190d40"/>](https://www.vmware.com/)
+
+**Backend Development Engineer Intern** \
+[**AntGroup**](https://www.antgroup.com/en) • privacy \
+Languages & Technologies: `Java`, `MicroService`, `Finance` , `Credit`  \
+Featured Projects: [privacy]()
+<br>
 
 [<img align="left" height="94px" width="94px" alt="Vmware" src="https://i0.wp.com/www.clamtech.com/wp-content/uploads/2018/05/VMWare-Logo.jpg?ssl=1"/>](https://www.vmware.com/)
 
