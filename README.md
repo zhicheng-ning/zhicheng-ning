@@ -79,7 +79,7 @@ Featured Projects: [Lion Forum](https://nzcer.cn:8088/forum) / [Larning Summary]
 [<img align="left" height="94px" width="94px" alt="Vmware" src="https://github.com/zhicheng-ning/zhicheng-ning/assets/39022409/15974593-3f57-496e-b17b-6108cd190d40"/>](https://www.vmware.com/)
 
 **Backend Development Engineer Intern** \
-[**AntGroup**](https://www.antgroup.com/en) • privacy \
+[**AntGroup**](https://www.antgroup.com/en) • 2023/06/08 - 2023/09/28 \
 Languages & Technologies: `Java`, `MicroService`, `Finance` , `Credit`  \
 Featured Projects: [privacy]()
 <br>
